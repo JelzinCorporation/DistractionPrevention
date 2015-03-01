@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/distrprev.png</file>
+    </qresource>
+</RCC>
